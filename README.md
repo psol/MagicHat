@@ -28,6 +28,11 @@ Sew the sequin in front of the hat, hide the strand, Gemma and battery inside th
 - Vout: regulator VIN
 - GND : strand-, sequin-, regulator GND and vibration sensor
 
+#### Soldering thing
+
+You would think that it will be easier to solder to the strand data to D1 but it is
+not PWM capable.
+
 ### Regulator
 
 Regulates 5V to the strand (optimal for NeoPixels brightness).

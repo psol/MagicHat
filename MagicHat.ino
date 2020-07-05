@@ -6,7 +6,7 @@
 #include <Adafruit_NeoPixel.h>
 #include "sine.h"
 
-#define STRAND_LEN 20
+#define STRAND_LEN 13
 #define STRAND_PIN 0
 #define SEQUIN_PIN A1
 #define SENSOR_PIN 1
